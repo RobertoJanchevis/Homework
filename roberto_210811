@@ -1,0 +1,30 @@
+frutas=["banana","apple","pear","watermelow","peach"]
+
+print("Question3*************")
+print(frutas)
+
+print("Question4***********")
+print(frutas[0:3])
+
+print("Question5**********")
+print(frutas[2:5])
+
+print("Question6**********")
+print(frutas[1:4])
+
+print("Question7**********")
+print("nãão consegui")
+
+print("Question8******")
+print("não_consegui")
+
+print("Question9*******")
+for roberto in frutas[:]:
+    print(roberto)
+
+print("Question10*********")
+numeros=(10,745,398)
+
+print("Question11*******")
+for roberto in numeros:
+    print(roberto)
